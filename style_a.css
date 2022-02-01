@@ -1,0 +1,44 @@
+body{
+
+    /* background-image: url(galilee 1.jpg);
+    background-size:    cover;
+    background-color:   #ffe980   ;  */
+
+    background-image: url(galilee3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.button {
+  color: #FFF;
+  background-color: #5995DA;
+  font-weight: bold;
+  padding: 15px;
+  text-align: center;
+  border: 5px solid #5D6063;
+  border-radius: 9px;
+  width: 150px;
+  margin: 15px auto;
+}
+/* h2{
+  color: red;
+  text-align:  center;
+  * border: 5px solid #FFAAAA;  *
+   border: 5px solid rgba(0, 0, 255, .2);
+  cursor:      wait;
+} */
+
+a:link {
+  color: magenta ;
+}
+ li{
+ list-style:         none;
+ /* display:           inline-block; */
+}
+h1{
+ color: #B478AB;
+ text-align:    center;
+ /* font-size: 2em; */
+  cursor:     pointer;
+}
