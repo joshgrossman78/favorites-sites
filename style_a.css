@@ -1,12 +1,12 @@
 body{
 
-    /* background-image: url(galilee 1.jpg);
-    background-size:    cover;
-    background-color:   #ffe980   ;  */
 
-    background-image: url(galilee3.jpg);
+    background-size:    cover;
+    background-color:   #ffe980   ; 
+
+    /* background-image: url(galilee3.jpg);
     background-size: cover;
-    background-repeat: no-repeat;
+    background-repeat: no-repeat; */
 }
 
 
