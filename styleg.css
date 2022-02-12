@@ -1,12 +1,15 @@
 img{
-  width: 175px;
-  height: 175px;
+  width: 275px;
+  height: 225px;
 }
 
 
 .container{
   display: grid;
-  gap: 10px;
+  gap: 12px;
+
+
+
    /* grid-template-columns: 375px 375px 375px 375px; */
   /* grid-template-columns: 25% 25% 25% 25%; */
     /* grid-template-columns: 1fr 1fr 1fr 1fr; */
